@@ -47,8 +47,10 @@ TECHNICAL BREAKDOWN:
 
 
 
+
 KEY INSIGHTS:
-       Top Revenue Driver:
+
+ Top Revenue Driver:
        Identified Technology as the highest-grossing category, contributing significantly to the $13M total sales,
        suggesting a focus on tech inventory for growth.
        Regional Powerhouses: Discovered that the Western and Central regions consistently outperform others, 
